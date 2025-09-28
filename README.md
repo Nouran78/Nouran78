@@ -50,7 +50,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nouran-essam-3b856a211) | [Email](mailto:nouranessam782@gmail.com)
+
+
+##📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nouran-essam-3b856a211) | [Email](mailto:nouranessam782@gmail.com)
 
 
 
