@@ -35,6 +35,21 @@
 - **[Repo](https://github.com/Nouran78/cyber-security-portfolio1)**  
 > Freelance cyber security demos using Angular.
 
+### 🛠️ Technologies & Tools
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nouran-essam-3b856a211) | [Email](mailto:nouranessam782@gmail.com)
 
 
